@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352012600975",
+    "project_id": "jeremy-navigation-app",
+    "storage_bucket": "jeremy-navigation-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352012600975:android:9943ab21c4c73298a152fa",
+        "android_client_info": {
+          "package_name": "com.example.porras_navigation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6VJGkx19RcgKpBCIJGx6eh3eBOd3TYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

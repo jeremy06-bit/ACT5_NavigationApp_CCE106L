@@ -57,7 +57,6 @@ class DefaultFirebaseOptions {
     projectId: 'jeremy-navigation-app',
     storageBucket: 'jeremy-navigation-app.firebasestorage.app',
   );
-
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDruhG5OAiA2aUmpz5FW4KSmx0rKoO0-dI',
     appId: '1:352012600975:ios:84dbb302413540f5a152fa',
@@ -66,7 +65,6 @@ class DefaultFirebaseOptions {
     storageBucket: 'jeremy-navigation-app.firebasestorage.app',
     iosBundleId: 'com.example.porrasNavigationApp',
   );
-
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyDruhG5OAiA2aUmpz5FW4KSmx0rKoO0-dI',
     appId: '1:352012600975:ios:84dbb302413540f5a152fa',
